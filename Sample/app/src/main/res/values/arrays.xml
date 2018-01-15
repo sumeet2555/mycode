@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_of_areas">
+        <item>Personal Loan</item>
+        <item>Buisness Loan</item>
+        <item>Home Loan</item>
+        <item>Balance Transfer Loan</item>
+    </string-array>
+</resources>
